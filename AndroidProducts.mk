@@ -10,5 +10,5 @@
   #
 
   PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_jflte.mk \
+    $(LOCAL_DIR)/slimsaber_jflte.mk \
     $(LOCAL_DIR)/full_jflte.mk

@@ -1,11 +1,9 @@
 ==============
 The Android Open Source Project - Galaxy S4
 --------------
-Copyright (c) 2015 Mattia "**AntaresOne**" D'Alleva
+Copyright (c) 2015-2016 The JDCTeam
 
-Copyright (c) 2015 Marco "**-+BB+-**" Zanin
-
-AOSP device configuration for **unified variants**:
+SlimSaber device configuration for **unified variants**:
 - *GT-I9505*
 - *GT-I9505G*
 - *GT-I9507*

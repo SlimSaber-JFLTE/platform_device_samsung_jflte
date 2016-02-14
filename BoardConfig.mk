@@ -48,7 +48,7 @@ BOARD_KERNEL_BASE := 0x80200000
 BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02000000
 BOARD_KERNEL_PAGESIZE := 2048
 TARGET_KERNEL_SOURCE := kernel/samsung/jf
-TARGET_KERNEL_CONFIG := aosp_jf_defconfig
+TARGET_KERNEL_CONFIG := slimsaber_jf_defconfig
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-linux-androideabi-
 TARGET_KERNEL_HAVE_EXFAT := true
 TARGET_KERNEL_HAVE_NTFS := true
@@ -129,6 +129,7 @@ TARGET_POWERHAL_VARIANT := qcom
 
 # Recovery
 TARGET_RECOVERY_FSTAB := $(COMMON_PATH)/rootdir/etc/fstab.qcom
+TW_THEME := portrait_hdpi
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := $(COMMON_PATH)/releasetools

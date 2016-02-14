@@ -25,7 +25,7 @@
 $(call inherit-product, device/samsung/jflte/full_jflte.mk)
 
 # Inherit our stuff.
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_NAME := aosp_jflte
+PRODUCT_NAME := slimsaber_jflte
   
