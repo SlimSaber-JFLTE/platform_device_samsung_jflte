@@ -1,9 +1,16 @@
 ==============
 The Android Open Source Project - Galaxy S4
 --------------
+<<<<<<< HEAD
 Copyright (c) 2015-2016 The JDCTeam
 
 SlimSaber device configuration for **unified variants**:
+=======
+
+# Copyright (C) 2016 The JDCTeam
+
+AOSP device configuration for **unified variants**:
+>>>>>>> ff5f872... Cleaning + small changes
 - *GT-I9505*
 - *GT-I9505G*
 - *GT-I9507*
