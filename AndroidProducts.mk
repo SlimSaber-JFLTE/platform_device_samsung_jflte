@@ -11,11 +11,6 @@
 # it includes.
 #
 
-<<<<<<< HEAD
   PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/slimsaber_jflte.mk \
-=======
-PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_jflte.mk \
->>>>>>> ff5f872... Cleaning + small changes
     $(LOCAL_DIR)/full_jflte.mk
