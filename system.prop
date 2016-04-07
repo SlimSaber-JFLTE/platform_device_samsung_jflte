@@ -3,3 +3,8 @@
 
 # cannot take spaces
 rild.libargs=-d /dev/smd0
+
+ro.build.fingerprint=samsung/jfltexx/jflte:5.0.1/LRX22C/I9505XXUHOB7:user/release-keys
+ro.product.device=jflte
+ro.product.model=jflte
+
