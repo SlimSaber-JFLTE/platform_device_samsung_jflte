@@ -27,5 +27,8 @@ $(call inherit-product, device/samsung/jflte/full_jflte.mk)
 # Inherit our stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
+# Inherit APNs list
+$(call inherit-product, vendor/omni/config/gsm.mk)
+
 PRODUCT_NAME := slimsaber_jflte
   
